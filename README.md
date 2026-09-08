@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Liquid%20Darkness%20p_4.gif" alt="banner" width="100%" />
+  <img src="banner.gif" alt="banner" width="100%" />
 </p>
 
 <p align="center">
