@@ -62,7 +62,7 @@ Contact   : Discord — saigounet
   </tr>
   <tr>
     <td align="center">📚</td>
-    <td><b>Apprentissage C</b><br/>CSS</td>
+    <td><b>Apprentissage C++</b><br/>Le langage, pas à pas</td>
   </tr>
 </table>
 
