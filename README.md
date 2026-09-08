@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Liquid%20Darkness%20p_4.gif" alt="banner" width="100%" />
+</p>
+
 ## Hi there 👋
 
 
