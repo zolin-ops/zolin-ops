@@ -16,7 +16,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> À propos de moi
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="30"> À propos de moi
 
 ```yaml
 Nom       : Zolin
@@ -33,7 +33,7 @@ Contact   : Discord — zoelini
 
 ---
 
-## 🛠️ Stack & outils
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0_fe0f/512.gif" width="30"> Stack & outils
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,cpp,vscode,github,discord,git&theme=dark" />
@@ -41,7 +41,7 @@ Contact   : Discord — zoelini
 
 ---
 
-## 💬 Citation du jour
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ac/512.gif" width="30"> Citation du jour
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -49,7 +49,7 @@ Contact   : Discord — zoelini
 
 ---
 
-## 🚀 En ce moment
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="30"> En ce moment
 
 <table align="center">
   <tr>
@@ -68,7 +68,7 @@ Contact   : Discord — zoelini
 
 ---
 
-## 📊 Statistiques
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="30"> Statistiques
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zolin-ops&hide_border=true&background=0D1117&stroke=8957E5&ring=8957E5&fire=8957E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8957E5&sideLabels=FFFFFF&dates=888888" />
