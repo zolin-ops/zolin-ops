@@ -74,17 +74,7 @@ Contact   : Discord — zoelini
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zolin-ops&hide_border=true&background=0D1117&stroke=8957E5&ring=8957E5&fire=8957E5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8957E5&sideLabels=FFFFFF&dates=888888" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zolin-ops&bg_color=0d1117&color=ffffff&line=8957e5&point=ffffff&area=true&area_color=8957e5&hide_border=true" />
-</p>
-
 ---
-
-## 🏆 Trophées
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zolin-ops&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8957E5&height=120&section=footer" width="100%" />
