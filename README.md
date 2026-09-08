@@ -10,7 +10,7 @@
   <a href="https://github.com/zolin-ops">
     <img src="https://img.shields.io/badge/GitHub-zolin--ops-0d1117?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Discord-zoelini-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-saigounet-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=zolin-ops&style=for-the-badge&color=8957E5&label=VISITES" />
 </p>
 
