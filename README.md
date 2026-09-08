@@ -25,7 +25,7 @@
 ## 🛠️ Stack & outils
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,python,nodejs,vscode,github,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,python,nodejs,vscode,github,discord&theme=dark" />
 </p>
 
 ---
