@@ -22,7 +22,7 @@
 Nom       : Zolin
 Pays      : France 🇫🇷
 Focus     : Bots Discord & développement web
-J'apprends: le C et Css
+J'apprends: le C et CSS
 État      : toujours en train de construire & d'apprendre
 Contact   : Discord — saigounet
 ```
