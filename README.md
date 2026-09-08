@@ -14,16 +14,14 @@
   <img src="https://komarev.com/ghpvc/?username=zolin-ops&style=for-the-badge&color=8957E5&label=VISITES" />
 </p>
 
-<br>
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> À propos de moi
-
-<img align="right" width="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
 Nom       : Zolin
 Pays      : France 🇫🇷
 Focus     : Bots Discord & développement web
 J'apprends: le C++ et la prog système
-État       : toujours en train de construire & d'apprendre
+État      : toujours en train de construire & d'apprendre
 Contact   : Discord — zoelini
