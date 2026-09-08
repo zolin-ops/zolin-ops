@@ -45,6 +45,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zolin-ops&show_icons=true&count_private=true&hide_border=true&title_color=8B0000&icon_color=8B0000&bg_color=0d1117&text_color=ffffff" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zolin-ops&hide_border=true&background=0d1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=ffffff" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zolin-ops&hide_border=true&background=0d1117&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
